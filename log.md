@@ -17,3 +17,12 @@
 **Link(s) to work**: None (Exercises were online) 
 
 
+### Day 2: July 2, 2020 
+
+**Today's Progress**: Took some time to work on lists and loops refresher.  Created 2 programs using loops. One that prints out the song "99 bottles of beer" on the wall and another where I changed the words to "99 days of code".  I learned how important it is to pay attention to the version of Python you are using.  The course I was taking online was using Python 2.x and I assumed it was Python 3.x because it was recently released. It caused me some issues that I could have avoided if I had checked beforehand.
+
+**Thoughts**: Today was awesome!  I struggled a bit at the beginning but got everything working.
+
+**Link(s) to work**
+[99 Bottles of Beer](https://github.com/Roseann-Guttierrez/100DOC_Projects/blob/master/programs/99bob.py)
+[99 Days of Code](https://github.com/Roseann-Guttierrez/100DOC_Projects/blob/master/programs/99doc.py)
