@@ -26,3 +26,12 @@
 **Link(s) to work**
 [99 Bottles of Beer](https://github.com/Roseann-Guttierrez/100DOC_Projects/blob/master/programs/99bob.py)
 [99 Days of Code](https://github.com/Roseann-Guttierrez/100DOC_Projects/blob/master/programs/99doc.py)
+
+
+### Day 3: July 3, 2020 
+
+**Today's Progress**: Listened to more Code Camp exercises.  Reviewed exercises from last 2 days.
+
+**Thoughts**: Everyone was off from work today so it was difficult to get my time in.  
+
+
