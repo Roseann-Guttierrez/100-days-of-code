@@ -35,3 +35,17 @@
 **Thoughts**: Everyone was off from work today so it was difficult to get my time in.  
 
 
+### Day 4: July 4, 2020 
+
+**Today's Progress**: Happy 4th of July! No progress today.  Family fobid use of the computer due to holiday.  Spent day with family.
+
+**Thoughts**: Enjoied the day.  Adding a day at the end.  See you tomorrow.  
+
+
+### Day 5: July 5, 2020 
+
+**Today's Progress**: Listened to more Code Camp exercises.  Went over Dictionaries and Functions.
+
+**Thoughts**: Tired.  Long weekend.  Enjoied listening to Python videos and working through exercises.  
+
+
