@@ -48,4 +48,9 @@
 
 **Thoughts**: Tired.  Long weekend.  Enjoied listening to Python videos and working through exercises.  
 
+---
+### Day 6: July 6, 2020 
 
+**Today's Progress**: Started looking at classes. Decided to try to make a game, came up with idea.  Working through the steps I need now.
+
+**Thoughts**: Refreshed and ready to do more. 
