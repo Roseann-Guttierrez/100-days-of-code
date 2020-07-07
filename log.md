@@ -23,8 +23,8 @@
 
 **Thoughts**: Today was awesome!  I struggled a bit at the beginning but got everything working.
 
-**Link(s) to work**
-[99 Bottles of Beer](https://github.com/Roseann-Guttierrez/100DOC_Projects/blob/master/programs/99bob.py)
+**Link(s) to work** <br/>
+[99 Bottles of Beer](https://github.com/Roseann-Guttierrez/100DOC_Projects/blob/master/programs/99bob.py) <br/>
 [99 Days of Code](https://github.com/Roseann-Guttierrez/100DOC_Projects/blob/master/programs/99doc.py)
 
 ---
