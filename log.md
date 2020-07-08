@@ -54,3 +54,8 @@
 **Today's Progress**: Started looking at classes. Decided to try to make a game, came up with idea.  Working through the steps I need now.
 
 **Thoughts**: Refreshed and ready to do more. 
+
+---
+### Day 7: July 7, 2020 
+
+**Today's Progress**: Worked through several online tutorials.  Thought more about the steps I need for the game I want to make.
