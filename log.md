@@ -59,3 +59,10 @@
 ### Day 7: July 7, 2020 
 
 **Today's Progress**: Worked through several online tutorials.  Thought more about the steps I need for the game I want to make.
+
+---
+### Day 8: July 8, 2020 
+
+**Today's Progress**: Worked through some exercises in a Udemy course. Drafted an outline of the game and started codeing it.
+
+**Thoughts**: Ready to attack the issues I know I will come across while trying to code the game.
