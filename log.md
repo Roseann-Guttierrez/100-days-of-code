@@ -66,3 +66,10 @@
 **Today's Progress**: Worked through some exercises in a Udemy course. Drafted an outline of the game and started codeing it.
 
 **Thoughts**: Ready to attack the issues I know I will come across while trying to code the game.
+
+---
+### Day 9: July 9, 2020 
+
+**Today's Progress**: Read about working with files in Python and worked through exercises.  Listened to a few videos as I was practicing.
+
+
