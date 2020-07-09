@@ -72,4 +72,4 @@
 
 **Today's Progress**: Read about working with files in Python and worked through exercises.  Listened to a few videos as I was practicing.
 
-
+**Thoughts**: Not all videos are equal.
