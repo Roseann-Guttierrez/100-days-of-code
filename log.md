@@ -73,3 +73,33 @@
 **Today's Progress**: Read about working with files in Python and worked through exercises.  Listened to a few videos as I was practicing.
 
 **Thoughts**: Not all videos are equal.
+
+---
+### Day 10: July 10, 2020 
+
+**Today's Progress**: Today I worked with file objects.
+
+---
+### Day 11: July 11, 2020 
+
+**Today's Progress**: Practiced on some exercises.  Working on game project.
+
+---
+### Day 12: July 12, 2020 
+
+**Today's Progress**: Listened to some videos and practiced basics of lists, dictionaries, and tuples.
+
+---
+### Day 13: July 13, 2020 
+
+**Today's Progress**: Worked on labs from online course.
+
+---
+### July 14 - 16, 2020 
+
+**Vacation with Family**
+
+---
+### Day 14: July 17, 2020 
+
+**Today's Progress**: Learning about web scraping.  Working through some exercises to learn how to use Beautiful Soup and Requests"
