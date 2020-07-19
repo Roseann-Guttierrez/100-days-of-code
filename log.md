@@ -103,3 +103,8 @@
 ### Day 14: July 17, 2020 
 
 **Today's Progress**: Learning about web scraping.  Working through some exercises to learn how to use Beautiful Soup and Requests"
+
+---
+### Day 15: July 18, 2020 
+
+**Today's Progress**: More research on web scraping.  Experimented with Python and APIs.  
