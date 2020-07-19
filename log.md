@@ -108,3 +108,12 @@
 ### Day 15: July 18, 2020 
 
 **Today's Progress**: More research on web scraping.  Experimented with Python and APIs.  
+
+---
+### Day 16: July 19, 2020 
+
+**Today's Progress**: Took some time to play around with the musixmatch api.  Working on a program to search through the database for songs with a specific word.
+
+**Link(s) to work** <br/>
+[Number of people on the space station](https://github.com/Roseann-Guttierrez/100DOC_Projects/blob/master/programs/apitest.py) <br/>
+
