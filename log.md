@@ -117,3 +117,8 @@
 **Link(s) to work** <br/>
 [Number of people on the space station](https://github.com/Roseann-Guttierrez/100DOC_Projects/blob/master/programs/apitest.py) <br/>
 
+---
+### Day 17: July 20, 2020 
+
+**Today's Progress**: Worked on exercises in PY4E class on coursera.  This is my second time through.  The first was 3 years ago.  Great refresher course.
+
