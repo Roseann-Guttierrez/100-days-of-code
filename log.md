@@ -122,3 +122,9 @@
 
 **Today's Progress**: Worked on exercises in PY4E class on coursera.  This is my second time through.  The first was 3 years ago.  Great refresher course.
 
+---
+### Day 18: July 21, 2020 
+
+**Today's Progress**: Worked on more PY4E class exercises.
+
+
