@@ -127,4 +127,7 @@
 
 **Today's Progress**: Worked on more PY4E class exercises.
 
+---
+### Day 19: July 22, 2020 
 
+**Today's Progress**: Took a break from exercises today and just worked on my project.  Not much to show for it but I learned a lot. :) 
