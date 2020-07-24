@@ -136,3 +136,10 @@
 ### Day 20: July 23, 2020 
 
 **Today's Progress**: Struggled a bit with functions and multiple arguments today.
+
+---
+### Day 21: July 24, 2020 
+
+**Today's Progress**: Today was awesome!  That sleep did me good.  I completed the 1st of 5 courses (Programming for Everybody (Getting Started with Python)) in the Python for everyon specialization on Coursera and started the second.  I was able to rock the exercises and feel like I am learning stuff. :) 
+
+
