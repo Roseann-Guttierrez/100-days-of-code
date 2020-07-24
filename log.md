@@ -131,3 +131,8 @@
 ### Day 19: July 22, 2020 
 
 **Today's Progress**: Took a break from exercises today and just worked on my project.  Not much to show for it but I learned a lot. :) 
+
+---
+### Day 20: July 23, 2020 
+
+**Today's Progress**: Struggled a bit with functions and multiple arguments today.
