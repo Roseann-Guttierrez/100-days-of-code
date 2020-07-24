@@ -140,6 +140,6 @@
 ---
 ### Day 21: July 24, 2020 
 
-**Today's Progress**: Today was awesome!  That sleep did me good.  I completed the 1st of 5 courses (Programming for Everybody (Getting Started with Python)) in the Python for everyon specialization on Coursera and started the second.  I was able to rock the exercises and feel like I am learning stuff. :) 
+**Today's Progress**: Today was awesome!  That sleep did me good.  I completed the 1st of 5 courses (Programming for Everybody (Getting Started with Python)) in the Python for everybody specialization on Coursera and started the second.  I rocked through the exercises and feel like I am learning stuff. :) 
 
 
