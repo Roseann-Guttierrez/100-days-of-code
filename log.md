@@ -142,4 +142,8 @@
 
 **Today's Progress**: Today was awesome!  That sleep did me good.  I completed the 1st of 5 courses (Programming for Everybody (Getting Started with Python)) in the Python for everybody specialization on Coursera and started the second.  I rocked through the exercises and feel like I am learning stuff. :) 
 
+---
+### Day 22: July 25, 2020 
+
+**Today's Progress**: Did more work with files today.  Finding and extracting information then playing around with it. So many ideas of how to use this.
 
